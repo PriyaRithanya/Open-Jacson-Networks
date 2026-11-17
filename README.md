@@ -65,3 +65,5 @@ print("----------------------------------------------------------------------")
 
 ## Result
 Thus, the Series Queues with Infinite Capacity using the Open Jackson Network model was executed successfully. The average number of objects in each system (S1, S2, and S3), the overall system, the conveyor, and the average waiting time at each conveyor were calculated successfully.
+
+## Github Link: https://github.com/PriyaRithanya/Open-Jacson-Networks.git
